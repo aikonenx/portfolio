@@ -1,4 +1,4 @@
 # portfolio
 C# practice
 
-Tämäpä se on Ari Ikosen C# -harjoittelua varten luotu portfolio.
+Attack_of_8Bit on harjoitustyönä tehtävä breakout-tyyppinen peli.
